@@ -63,24 +63,24 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 [ᗩᑎKI ᐯEᑕTOᖇ](t.me/ankivectorUpdates) 🍑
-𝙄'𝙢 𝙖 𝙋𝙤𝙬𝙚𝙧𝙛𝙪𝙡 𝙜𝙧𝙤𝙪𝙥 𝙢𝙖𝙣𝙖𝙜𝙚𝙧 𝙗𝙤𝙩 𝙒𝙞𝙩𝙝 𝘾𝙤𝙤𝙡 𝙈𝙤𝙙𝙪𝙡𝙚𝙨. 𝙈𝙖𝙙𝙚 𝙗𝙮 [TEᗩᗰ ᗩᑎKI ᐯEᑕTOᖇ](t.me/TeamAnkiVector)
+𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 [𝙰𝚗𝚔𝚒 𝚅𝚎𝚌𝚘𝚝𝚘𝚛](t.me/ankivectorUpdates) 🍑
+𝙄'𝙢 𝙖 𝙋𝙤𝙬𝙚𝙧𝙛𝙪𝙡 𝙜𝙧𝙤𝙪𝙥 𝙢𝙖𝙣𝙖𝙜𝙚𝙧 𝙗𝙤𝙩 𝙒𝙞𝙩𝙝 𝘾𝙤𝙤𝙡 𝙈𝙤𝙙𝙪𝙡𝙚𝙨. 𝙈𝙖𝙙𝙚 𝙗𝙮 [𝓣𝓮𝓪𝓶 𝓐𝓷𝓴𝓲 𝓥𝓮𝓬𝓽𝓸𝓻](t.me/TeamAnkiVector)
 𝙃𝙞𝙩 /help 𝙩𝙤 𝙛𝙞𝙣𝙙 𝙢𝙮 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙖𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨 🕹
  
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="📌ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url="https://t.me/ankivectorUpdates"),
-        InlineKeyboardButton(text="🖲 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/AnkiSupport_Official"),
+        InlineKeyboardButton(text="𝙰𝚗𝚔𝚒𝚅𝚎𝚌𝚝𝚘𝚛 𝚄𝚙𝚍𝚊𝚝𝚎𝚜", url="https://t.me/ankivectorUpdates"),
+        InlineKeyboardButton(text="𝙰𝚗𝚔𝚒𝚅𝚎𝚌𝚝𝚘𝚛 𝚂𝚞𝚙𝚙𝚘𝚛𝚝", url="https://t.me/AnkiSupport_Official"),
     ],
     [
-        InlineKeyboardButton(text="📜 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"),
-        InlineKeyboardButton(text="❔ ʜᴇʟᴘ", url="http://t.me/TheAnkiVectorbot?start=help"),
+        InlineKeyboardButton(text="📜 𝙷𝚘𝚠 𝚝𝚘 𝙲𝚛𝚎𝚊𝚝𝚎 𝙼𝚎", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"),
+        InlineKeyboardButton(text="❔ 𝙷𝚎𝚕𝚙", url="http://t.me/TheAnkiVectorbot?start=help"),
     ],
     [
         InlineKeyboardButton(
-            text="➕ ᴀᴅᴅ ᴀɴᴋɪ ᴠᴇᴄᴛᴏʀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/TheAnkiVectorbot?startgroup=true"
+            text="➕🔥 𝙰𝚍𝚍 𝙼𝚎 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙 🔥➕", url="t.me/TheAnkiVectorbot?startgroup=true"
         ),
     ],
 ]
@@ -103,9 +103,9 @@ HELP_STRINGS = f"""
 )
 
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
+DONATE_STRING = """Heya, 🇱🇰🔥 glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Damantha Jasinghe](t.me/Damantha_Jasinghe)"""
+Support them  [Damantha Jasinghe](t.me/Damantha_Jasinghe)🇱🇰🇱🇰"""
 
 IMPORTED = {}
 MIGRATEABLE = []
